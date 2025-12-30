@@ -1,0 +1,7 @@
+tp4\dao\PersonDAO.class
+tp4\entity\Person.class
+tp4\rest\PersonResource.class
+tp4\test\TestDAO.class
+tp4\util\JpaUtil.class
+tp4\test\TestPerson.class
+tp4\rest\RestApplication.class
